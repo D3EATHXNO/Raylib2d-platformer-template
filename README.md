@@ -1,0 +1,2 @@
+# Raylib2d-platformer-template
+IF YOU BUY A PROPERTY IN EGYPT , THEY GIVE YOU THE PROPERTY
